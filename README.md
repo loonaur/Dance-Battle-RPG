@@ -69,9 +69,6 @@ python main.py
 - Introduce new dance moves and power-ups
 - Expand the storyline with additional quests and challenges
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
