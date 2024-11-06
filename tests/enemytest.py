@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch
-from rpg.enemy import Enemy
+from rpg.npcs.enemy import Enemy
 from itertools import cycle
 
 

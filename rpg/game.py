@@ -1,11 +1,11 @@
-from rpg.room import Room
+from rpg.room.room import Room
 from rpg.player import Player
-from rpg.door import Door
+from rpg.room.door import Door
 from rpg.io_utils import Scanner, Saver
-from rpg.npc import NPC
-from rpg.enemy import Enemy
-from rpg.healer import Healer
-from rpg.jsontest import JsonSerializable
+from rpg.npcs.npc import NPC
+from rpg.npcs.enemy import Enemy
+from rpg.npcs.healer import Healer
+from tests.jsontest import JsonSerializable
 import sys
 from typing import Dict, Optional
 

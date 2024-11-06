@@ -1,6 +1,6 @@
 from pydantic import BaseModel, Field, PrivateAttr
 from copy import deepcopy
-from rpg.room import Room
+from rpg.room.room import Room
 from typing import Dict, Any, Optional
 from rpg.io_utils import Scanner
 

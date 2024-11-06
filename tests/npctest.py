@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from rpg.npc import NPC
+from rpg.npcs.npc import NPC
 
 
 class TestNPC(unittest.TestCase):

@@ -1,8 +1,8 @@
 import unittest
 from unittest.mock import MagicMock, patch
 from rpg.room import Room
-from rpg.door import Door
-from rpg.npc import NPC
+from rpg.room.door import Door
+from rpg.npcs.npc import NPC
 
 
 class TestRoom(unittest.TestCase):

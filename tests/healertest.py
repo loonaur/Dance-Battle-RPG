@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch
-from rpg.healer import Healer
+from rpg.npcs.healer import Healer
 
 
 class TestHealer(unittest.TestCase):

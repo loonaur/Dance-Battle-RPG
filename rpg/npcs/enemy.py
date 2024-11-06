@@ -1,5 +1,5 @@
 from pydantic import Field, PrivateAttr
-from rpg.npc import NPC
+from rpg.npcs.npc import NPC
 import random
 from typing import Dict, Tuple, TypeVar
 

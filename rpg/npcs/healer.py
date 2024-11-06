@@ -1,4 +1,4 @@
-from rpg.npc import NPC
+from rpg.npcs.npc import NPC
 from pydantic import Field
 from typing import TypeVar
 

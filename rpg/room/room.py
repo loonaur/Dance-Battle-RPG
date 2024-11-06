@@ -1,8 +1,8 @@
 from pydantic import Field
 from rpg.io_utils import Inspectable
-from rpg.door import Door
+from rpg.room.door import Door
 from typing import List, Dict, Any
-from rpg.npc import NPC
+from rpg.npcs.npc import NPC
 from rpg.json import JsonSerializable
 
 

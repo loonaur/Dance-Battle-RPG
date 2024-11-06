@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 from rpg.player import Player
-from rpg.room import Room
+from rpg.room.room import Room
 
 
 class TestPlayer(unittest.TestCase):

@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, MagicMock
-from rpg.door import Door
+from rpg.room.door import Door
 
 
 class TestDoor(unittest.TestCase):
